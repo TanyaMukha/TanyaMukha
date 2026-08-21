@@ -1,8 +1,40 @@
+# [EasyPeasy](https://github.com/TanyaMukha/EasyEnglish)
+
+An offline study application built as a .NET MAUI Blazor Hybrid solution. Material is
+organised as subjects, courses, units and cards. A course carries its own language as a
+BCP-47 tag, chosen from ten, but nothing below that level is tied to a language: a card is
+a pair of prompt and answer, so the same app holds vocabulary, professional terminology or
+definitions equally well. Study cards come in three forms and test cards in five — single
+choice, multiple choice, short answer, cloze and matching. Answers are compared tolerantly,
+each card carries a difficulty rating that feeds the selection filters, and day streaks
+track consistency. Courses import and export as zip archives. Speech synthesis and
+pronunciation checking are wired for British English, American English and Ukrainian;
+recorded audio plays back whatever the language of the material.
+
+The solution is layered across ten projects with a test project for each, covered by 425
+xUnit tests, and four reusable libraries are factored out of the app for database access,
+query parameters and logging. Architecture decisions, PlantUML diagrams and a testing
+strategy are kept in the repository next to the code.
+
+Tech stack: .NET 9, MAUI Blazor Hybrid, Entity Framework Core, SQLite, xUnit, NSubstitute,
+AutoMapper, CommunityToolkit.Mvvm, Markdig
+
 # [Resume Creator](https://github.com/TanyaMukha/resume-creator)
 
-Resume Builder is a desktop application for creating and managing professional resumes in PDF format. Built with Tauri Framework, it combines native performance with web technologies for cross-platform compatibility. Features include SQLite local database for data persistence, intuitive form interface built with Material UI and Formik, strong type safety with TypeScript, and professional PDF export capabilities. The app offers a seamless experience for creating and maintaining job application documents.
+A desktop application that keeps one career history and generates targeted CVs from it.
+Instead of editing a document, you edit the data — positions, experience, projects,
+education, skills — and each export picks a template, a language and which of the nine
+sections to include, so a CV aimed at a frontend role and one aimed at a database role
+come from the same source. Four PDF templates offer different reading orders, from a
+single-column layout that keeps text order intact for applicant tracking systems to one
+that leads with projects rather than employers. Skills and skill groups carry their own
+translations, so the same record prints in either language. Everything runs offline on a
+local SQLite database behind a repository layer, with schema changes applied through
+idempotent migrations that inspect the database first and skip whatever is already there.
+The test suite runs against a real database rather than mocks.
 
-Tech stack: Tauri, React, TypeScript, SQLite, Material UI, Formik, React PDF
+Tech stack: Tauri, React 18, TypeScript, Vite, SQLite, Material UI, TanStack Query,
+react-hook-form, zod, React PDF, Vitest
 
 <p align="center">
   <a href="/screenshots/resume-creator/Screenshot%202024-11-21%20083712.jpg" target="_blank">
