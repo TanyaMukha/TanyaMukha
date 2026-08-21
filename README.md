@@ -58,8 +58,8 @@ react-hook-form, zod, React PDF, Vitest
   <a href="/screenshots/resume-creator/Screenshot%202026-08-21%20174244.jpg" target="_blank">
     <img src="/screenshots/resume-creator/Screenshot%202026-08-21%20174244.jpg" width="45%" alt="Resume Creator - Home Page" style="margin-right: 10px;"/>
   </a>
-  <a href="/screenshots/resume-creator/Screenshot%202026-08-21%20174244.jpg" target="_blank">
-    <img src="/screenshots/resume-creator/Screenshot%202026-08-21%20174244.jpg" width="45%" alt="Resume Creator - PDF" style="margin-right: 10px;/>
+  <a href="/screenshots/resume-creator/Screenshot%202026-08-21%20174510.jpg" target="_blank">
+    <img src="/screenshots/resume-creator/Screenshot%202026-08-21%20174510.jpg" width="45%" alt="Resume Creator - PDF" style="margin-right: 10px;/>
   </a>
   <a href="/screenshots/resume-creator/Screenshot%202026-08-21%20175028.jpg" target="_blank">
     <img src="/screenshots/resume-creator/Screenshot%202026-08-21%20175028.jpg" width="45%" alt="Resume Creator - PDF"/>
