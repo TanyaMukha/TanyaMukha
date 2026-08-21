@@ -21,7 +21,7 @@ AutoMapper, CommunityToolkit.Mvvm, Markdig
 
 <p align="center">
   <a href="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173238.jpg" target="_blank">
-    <img src="/screenshots/resume-creator/Screenshot%202026-08-21%20173238.jpg" alt="EasyPeasy - Module Detail Page" height="200px" style="margin-right: 10px;"/>
+    <img src="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173238.jpg" alt="EasyPeasy - Module Detail Page" height="200px" style="margin-right: 10px;"/>
   </a>
   <a href="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173330.jpg" target="_blank">
     <img src="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173330.jpg" alt="EasyPeasy - Unit Page" height="200px" style="margin-right: 10px;/>
