@@ -1,4 +1,4 @@
-# [EasyPeasy](https://github.com/TanyaMukha/EasyEnglish)
+# [EasyPeasy](https://github.com/TanyaMukha/EasyPeasy)
 
 An offline study application built as a .NET MAUI Blazor Hybrid solution. Material is
 organised as subjects, courses, units and cards. A course carries its own language as a
@@ -19,6 +19,24 @@ strategy are kept in the repository next to the code.
 Tech stack: .NET 9, MAUI Blazor Hybrid, Entity Framework Core, SQLite, xUnit, NSubstitute,
 AutoMapper, CommunityToolkit.Mvvm, Markdig
 
+<p align="center">
+  <a href="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173238.jpg" target="_blank">
+    <img src="/screenshots/resume-creator/Screenshot%202026-08-21%20173238.jpg" width="45%" alt="EasyPeasy - Module Detail Page" height="200px" style="margin-right: 10px;"/>
+  </a>
+  <a href="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173330.jpg" target="_blank">
+    <img src="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173330.jpg" width="45%" alt="EasyPeasy - Unit Page" height="200px" style="margin-right: 10px;/>
+  </a>
+  <a href="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173438.jpg" target="_blank">
+    <img src="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173438.jpg" width="45%" alt="EasyPeasy - Review words - Desktop Page" height="200px" style="margin-right: 10px;/>
+  </a>
+  <a href="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173512.jpg" target="_blank">
+    <img src="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173512.jpg" width="45%" alt="EasyPeasy - Review words - Mobile Page" height="200px" style="margin-right: 10px;/>
+  </a>
+  <a href="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173512.jpg" target="_blank">
+    <img src="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173512.jpg" width="45%" alt="EasyPeasy - Test Page" height="200px"/>
+  </a>
+</p>
+
 # [Resume Creator](https://github.com/TanyaMukha/resume-creator)
 
 A desktop application that keeps one career history and generates targeted CVs from it.
@@ -37,11 +55,14 @@ Tech stack: Tauri, React 18, TypeScript, Vite, SQLite, Material UI, TanStack Que
 react-hook-form, zod, React PDF, Vitest
 
 <p align="center">
-  <a href="/screenshots/resume-creator/Screenshot%202024-11-21%20083712.jpg" target="_blank">
-    <img src="/screenshots/resume-creator/Screenshot%202024-11-21%20083712.jpg" width="45%" alt="Resume Creator - Home Page" style="margin-right: 10px;"/>
+  <a href="/screenshots/resume-creator/Screenshot%202026-08-21%20174244.jpg" target="_blank">
+    <img src="/screenshots/resume-creator/Screenshot%202026-08-21%20174244.jpg" width="45%" alt="Resume Creator - Home Page" style="margin-right: 10px;"/>
   </a>
-  <a href="/screenshots/resume-creator/Screenshot%202024-11-21%20083841.jpg" target="_blank">
-    <img src="/screenshots/resume-creator/Screenshot%202024-11-21%20083841.jpg" width="45%" alt="Resume Creator - PDF"/>
+  <a href="/screenshots/resume-creator/Screenshot%202026-08-21%20174244.jpg" target="_blank">
+    <img src="/screenshots/resume-creator/Screenshot%202026-08-21%20174244.jpg" width="45%" alt="Resume Creator - PDF" style="margin-right: 10px;/>
+  </a>
+  <a href="/screenshots/resume-creator/Screenshot%202026-08-21%20175028.jpg" target="_blank">
+    <img src="/screenshots/resume-creator/Screenshot%202026-08-21%20175028.jpg" width="45%" alt="Resume Creator - PDF"/>
   </a>
 </p>
 
