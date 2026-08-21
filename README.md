@@ -32,8 +32,8 @@ AutoMapper, CommunityToolkit.Mvvm, Markdig
   <a href="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173512.jpg" target="_blank">
     <img src="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173512.jpg" alt="EasyPeasy - Review words - Mobile Page" height="300px" style="margin-right: 10px;/>
   </a>
-  <a href="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173512.jpg" target="_blank">
-    <img src="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173512.jpg" alt="EasyPeasy - Test Page" height="300px"/>
+  <a href="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173741.jpg" target="_blank">
+    <img src="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173741.jpg" alt="EasyPeasy - Test Page" height="300px"/>
   </a>
 </p>
 
