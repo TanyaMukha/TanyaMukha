@@ -21,19 +21,19 @@ AutoMapper, CommunityToolkit.Mvvm, Markdig
 
 <p align="center">
   <a href="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173238.jpg" target="_blank">
-    <img src="/screenshots/resume-creator/Screenshot%202026-08-21%20173238.jpg" width="45%" alt="EasyPeasy - Module Detail Page" height="200px" style="margin-right: 10px;"/>
+    <img src="/screenshots/resume-creator/Screenshot%202026-08-21%20173238.jpg" alt="EasyPeasy - Module Detail Page" height="200px" style="margin-right: 10px;"/>
   </a>
   <a href="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173330.jpg" target="_blank">
-    <img src="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173330.jpg" width="45%" alt="EasyPeasy - Unit Page" height="200px" style="margin-right: 10px;/>
+    <img src="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173330.jpg" alt="EasyPeasy - Unit Page" height="200px" style="margin-right: 10px;/>
   </a>
   <a href="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173438.jpg" target="_blank">
-    <img src="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173438.jpg" width="45%" alt="EasyPeasy - Review words - Desktop Page" height="200px" style="margin-right: 10px;/>
+    <img src="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173438.jpg" alt="EasyPeasy - Review words - Desktop Page" height="200px" style="margin-right: 10px;/>
   </a>
   <a href="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173512.jpg" target="_blank">
-    <img src="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173512.jpg" width="45%" alt="EasyPeasy - Review words - Mobile Page" height="200px" style="margin-right: 10px;/>
+    <img src="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173512.jpg" alt="EasyPeasy - Review words - Mobile Page" height="200px" style="margin-right: 10px;/>
   </a>
   <a href="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173512.jpg" target="_blank">
-    <img src="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173512.jpg" width="45%" alt="EasyPeasy - Test Page" height="200px"/>
+    <img src="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173512.jpg" alt="EasyPeasy - Test Page" height="200px"/>
   </a>
 </p>
 
