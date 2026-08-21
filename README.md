@@ -21,19 +21,19 @@ AutoMapper, CommunityToolkit.Mvvm, Markdig
 
 <p align="center">
   <a href="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173238.jpg" target="_blank">
-    <img src="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173238.jpg" alt="EasyPeasy - Module Detail Page" height="200px" style="margin-right: 10px;"/>
+    <img src="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173238.jpg" alt="EasyPeasy - Module Detail Page" height="300px" style="margin-right: 10px;"/>
   </a>
   <a href="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173330.jpg" target="_blank">
-    <img src="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173330.jpg" alt="EasyPeasy - Unit Page" height="200px" style="margin-right: 10px;/>
+    <img src="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173330.jpg" alt="EasyPeasy - Unit Page" height="300px" style="margin-right: 10px;/>
   </a>
   <a href="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173438.jpg" target="_blank">
-    <img src="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173438.jpg" alt="EasyPeasy - Review words - Desktop Page" height="200px" style="margin-right: 10px;/>
+    <img src="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173438.jpg" alt="EasyPeasy - Review words - Desktop Page" height="300px" style="margin-right: 10px;/>
   </a>
   <a href="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173512.jpg" target="_blank">
-    <img src="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173512.jpg" alt="EasyPeasy - Review words - Mobile Page" height="200px" style="margin-right: 10px;/>
+    <img src="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173512.jpg" alt="EasyPeasy - Review words - Mobile Page" height="300px" style="margin-right: 10px;/>
   </a>
   <a href="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173512.jpg" target="_blank">
-    <img src="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173512.jpg" alt="EasyPeasy - Test Page" height="200px"/>
+    <img src="/screenshots/EasyPeasy/Screenshot%202026-08-21%20173512.jpg" alt="EasyPeasy - Test Page" height="300px"/>
   </a>
 </p>
 
@@ -88,25 +88,25 @@ Project goal: Modernize the digital platform for France's leading multimedia aut
 
 <p align="center">
   <a href="/screenshots/Scam/Screenshot%202024-11-21%20093157.jpg" target="_blank">
-    <img src="/screenshots/Scam/Screenshot%202024-11-21%20093157.jpg" alt="Scam HomePage 1" height="200px" style="margin-right: 10px;"/>
+    <img src="/screenshots/Scam/Screenshot%202024-11-21%20093157.jpg" alt="Scam HomePage 1" height="300px" style="margin-right: 10px;"/>
   </a>
   <a href="/screenshots/Scam/Screenshot%202024-11-21%20093509.jpg" target="_blank">
-    <img src="/screenshots/Scam/Screenshot%202024-11-21%20093509.jpg" alt="Scam HomePage 2" height="200px" style="margin-right: 10px;"/>
+    <img src="/screenshots/Scam/Screenshot%202024-11-21%20093509.jpg" alt="Scam HomePage 2" height="300px" style="margin-right: 10px;"/>
   </a>
   <a href="/screenshots/Scam/Screenshot%202024-11-21%20093823.jpg" target="_blank">
-    <img src="/screenshots/Scam/Screenshot%202024-11-21%20093823.jpg" alt="Scam News&Events 1" height="200px" style="margin-right: 10px;"/>
+    <img src="/screenshots/Scam/Screenshot%202024-11-21%20093823.jpg" alt="Scam News&Events 1" height="300px" style="margin-right: 10px;"/>
   </a>
   <a href="/screenshots/Scam/Screenshot%202024-11-21%20093548.jpg" target="_blank">
-    <img src="/screenshots/Scam/Screenshot%202024-11-21%20093548.jpg" alt="Scam Works Table" height="200px" style="margin-right: 10px;"/>
+    <img src="/screenshots/Scam/Screenshot%202024-11-21%20093548.jpg" alt="Scam Works Table" height="300px" style="margin-right: 10px;"/>
   </a>
   <a href="/screenshots/Scam/Screenshot%202024-11-21%20093644.jpg" target="_blank">
-    <img src="/screenshots/Scam/Screenshot%202024-11-21%20093644.jpg" alt="Scam Works Detail" height="200px" style="margin-right: 10px;"/>
+    <img src="/screenshots/Scam/Screenshot%202024-11-21%20093644.jpg" alt="Scam Works Detail" height="300px" style="margin-right: 10px;"/>
   </a>
   <a href="/screenshots/Scam/Screenshot%202024-11-21%20095735.jpg" target="_blank">
-    <img src="/screenshots/Scam/Screenshot%202024-11-21%20095735.jpg" alt="Scam Mobile HomePage 1" height="200px" style="margin-right: 10px;"/>
+    <img src="/screenshots/Scam/Screenshot%202024-11-21%20095735.jpg" alt="Scam Mobile HomePage 1" height="300px" style="margin-right: 10px;"/>
   </a>
   <a href="/screenshots/Scam/Screenshot%202024-11-21%20095819.jpg" target="_blank">
-    <img src="/screenshots/Scam/Screenshot%202024-11-21%20095819.jpg" alt="Scam Mobile HomePage 2" height="200px" style="margin-right: 10px;"/>
+    <img src="/screenshots/Scam/Screenshot%202024-11-21%20095819.jpg" alt="Scam Mobile HomePage 2" height="300px" style="margin-right: 10px;"/>
   </a>
   <a href="/screenshots/Scam/Screenshot%202024-11-21%20095611.jpg" target="_blank">
     <img src="/screenshots/Scam/Screenshot%202024-11-21%20095611.jpg" alt="Scam Mobile Works Table" height="200px" style="max-height: 200px;"/>
